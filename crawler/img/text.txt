@@ -1,0 +1,1 @@
+Local onde o captcha irá ser baixado.
